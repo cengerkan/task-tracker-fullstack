@@ -1,18 +1,29 @@
-# 📝 Task Tracker – Fullstack App
+# 📝 Task Tracker Fullstack App
 
-Basit ve güçlü bir görev takip uygulaması.  
-🖥️ Frontend: Vanilla JS  
-🚀 Backend: Express + MongoDB  
-🌐 CRUD destekli RESTful API
+Bu proje, görevlerinizi takip etmenizi sağlayan basit ama etkili bir fullstack uygulamadır.
 
-## Başlatmak için
+## 🚀 Özellikler
 
-1. `cd backend && npm install && node index.js`
-2. `frontend/index.html` dosyasını aç (çift tıkla)
+- Görev oluşturma
+- Görevleri listeleme
+- Tamamlandı işaretleme
+- Görev silme
+- MongoDB ile veritabanı
+- Express.js ile backend API
+- Basit HTML/JS frontend
 
-## Özellikler
+## 🛠️ Kullanılan Teknolojiler
 
-✅ Görev oluştur  
-✅ Görev sil  
-✅ Görev tamamlandı olarak işaretle  
-✅ MongoDB ile kalıcı veri yönetimi
+- Node.js
+- Express
+- MongoDB (Mongoose)
+- HTML, CSS, JavaScript
+- Git & GitHub
+
+## 📦 Kurulum
+
+```bash
+git clone https://github.com/cengerkan/task-tracker-fullstack.git
+cd task-tracker-fullstack/backend
+npm install
+npm start
