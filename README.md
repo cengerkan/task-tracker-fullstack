@@ -2,7 +2,7 @@
 
 Bu proje, görevlerinizi takip etmenizi sağlayan basit ama etkili bir fullstack uygulamadır.
 
-## 🚀 Özellikler
+##  Özellikler
 
 - Görev oluşturma
 - Görevleri listeleme
@@ -12,7 +12,7 @@ Bu proje, görevlerinizi takip etmenizi sağlayan basit ama etkili bir fullstack
 - Express.js ile backend API
 - Basit HTML/JS frontend
 
-## 🛠️ Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 
 - Node.js
 - Express
@@ -20,7 +20,7 @@ Bu proje, görevlerinizi takip etmenizi sağlayan basit ama etkili bir fullstack
 - HTML, CSS, JavaScript
 - Git & GitHub
 
-## 📦 Kurulum
+##  Kurulum
 
 ```bash
 git clone https://github.com/cengerkan/task-tracker-fullstack.git
