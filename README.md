@@ -23,7 +23,11 @@ This project is a simple yet effective fullstack application that lets you track
 ## Installation
 
 bash
+
 git clone https://github.com/cengerkan/task-tracker-fullstack.git
+
 cd task-tracker-fullstack/backend
+
 npm install
+
 npm start
